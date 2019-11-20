@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Watson Chabot</string>
-    <string name="what_s_on_your_mind">Enter your query</string>
-   <!-- <string name="assistant_apikey">yGfwp5s3NuVjMLENtEQd24MtCP8UxD8XFWNS2_hbOZaL</string>
-    <string name="assistant_url">https://gateway-lon.watsonplatform.net/assistant/api/v2/assistants/2ca9d632-d2aa-459e-9ed9-adb88f5dea89/sessions</string>
--->
-</resources>
