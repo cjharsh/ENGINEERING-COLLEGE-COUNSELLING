@@ -1,0 +1,24 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "https://www.amity.edu/greaternoida/images/university.jpg"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "amity.edu"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

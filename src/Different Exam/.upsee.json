@@ -1,0 +1,33 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "The entrance examination for degree level engineering institutions and other professional colleges in UP, conducted by AKTU. Abdul Kalam Technical University"
+          },
+          {
+            "text": "It is the entrance exam for getting admission in various government and private colleges of UP."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "Cut off(expected 2020) list for UPSEE is:"
+          },
+          {
+            "text": "\nUPSEE Rank Rang (Marks)\tExpected Cutoff Rank\nAbove 500                                    \t1 – 600\n475 – 499                                    \t601 – 1050\n400 – 474                                    \t1051 – 7050\n350 – 399                                    \t7051 – 16000\n300 – 349                                    \t16001 – 25000\n250 – 299                                    \t25001 – 30000\n120 – 199                                    \t30001 -90000\nBelow 120                                    \tAbove 90000"
+          },
+          {
+            "text": "https://engineering.careers360.com/articles/upsee-cutoff visit for more comprehensive cut-offs."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

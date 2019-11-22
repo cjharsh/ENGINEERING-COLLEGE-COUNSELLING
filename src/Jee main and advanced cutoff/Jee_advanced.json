@@ -1,0 +1,26 @@
+{
+  "output": {
+    "generic": [
+      {
+        "title": "Cutoff for 2018:",
+        "source": "https://anunaad.files.wordpress.com/2018/05/jee_advanced_expected_cut_off.png?resize=640%2C480",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": ""
+          },
+          {
+            "text": "More more results visit: https://www.shiksha.com/b-tech/jee-advanced-exam-cutoff"
+          },
+          {
+            "text": "More more results visit:  https://engineering.careers360.com/articles/jee-advanced-cutoff"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

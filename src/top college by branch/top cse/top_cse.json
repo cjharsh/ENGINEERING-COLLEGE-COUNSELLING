@@ -1,0 +1,40 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Best Computer Science Engineering Colleges in India:"
+          },
+          {
+            "text": "Top cse colleges of India:"
+          },
+          {
+            "text": "Some of the best computer science engineering colleges:"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      },
+      {
+        "source": "https://uploads.sarvgyan.com/2014/06/cse-image.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "https://www.shiksha.com/b-tech/ranking/top-computer-science-engineering-colleges-in-india/46-2-0-0-0"
+          },
+          {
+            "text": "https://collegedunia.com/engineering/computer-science-colleges"
+          },
+          {
+            "text": "https://engineering.careers360.com/colleges/list-of-computer-science-engineering-colleges-in-india"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

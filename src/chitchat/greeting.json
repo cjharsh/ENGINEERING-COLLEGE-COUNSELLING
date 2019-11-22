@@ -1,0 +1,24 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Hey!!"
+          },
+          {
+            "text": "Hi there!"
+          },
+          {
+            "text": "Hey, looks like someone is enthusiastic, be like that!"
+          },
+          {
+            "text": "hello!"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

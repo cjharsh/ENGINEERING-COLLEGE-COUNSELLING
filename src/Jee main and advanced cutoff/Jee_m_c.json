@@ -1,0 +1,26 @@
+{
+  "output": {
+    "generic": [
+      {
+        "title": "Jee main cutoff trend",
+        "source": "https://www.shiksha.com/mediadata/images/JEE_MAIN_CUT_OFF.JPG",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "https://www.shiksha.com/b-tech/jee-main-exam-cutoff"
+          },
+          {
+            "text": "https://engineering.careers360.com/articles/jee-main-cutoff"
+          },
+          {
+            "text": "https://collegedunia.com/exams/jee-main/cutoff"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Here is the link for the best ECE colleges:"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "source": "http://media.myklassroom.com/mkm_webroot/branch_images/23.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "https://www.shiksha.com/b-tech/ranking/top-electronics-communication-engineering-colleges-in-india/45-2-0-0-0"
+          },
+          {
+            "text": "https://engineering.careers360.com/colleges/list-of-electronics-and-communication-engineering-colleges-in-india"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

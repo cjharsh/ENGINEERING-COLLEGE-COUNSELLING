@@ -1,0 +1,24 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Both the branches have a difference (electrical and electronics), it is purely based on the electrical, and the other EEE is a combination of both. EE is concerned with using electricity to transmit energy and EEE concerned with using electricity to transmit information. "
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "Both the branches have good scope in the future. You can choose the branch according to your interest and passion. If we compare both the branches then electrical branch has good scope in the future in terms of job and placements."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

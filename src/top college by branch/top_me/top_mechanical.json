@@ -1,0 +1,38 @@
+{
+  "output": {
+    "generic": [
+      {
+        "title": "Best mechanical engineering colleges",
+        "source": "https://static.india.com/wp-content/uploads/2019/06/IIT-Madras-Twitter.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "https://www.srmuniversity.ac.in/blog/tag/top-mechanical-engineering-colleges-in-india/"
+          },
+          {
+            "text": "https://www.srmuniversity.ac.in/blog/tag/top-mechanical-engineering-colleges-in-india/"
+          },
+          {
+            "text": "https://engineering.careers360.com/colleges/list-of-mechanical-engineering-colleges-in-india"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      },
+      {
+        "values": [
+          {
+            "text": "I got a link with best engineering colleges for mechanical branch."
+          },
+          {
+            "text": "Best mechanical engineering colleges."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

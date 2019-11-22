@@ -1,0 +1,27 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "I didn't understand. You can try rephrasing"
+          },
+          {
+            "text": "Can you reword your statement? I'm not understanding.??"
+          },
+          {
+            "text": "I am sorry, I didn't get you. ??"
+          },
+          {
+            "text": "Oops, PadhoLikho didn't understand you.??"
+          },
+          {
+            "text": "What was that, try again!??"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

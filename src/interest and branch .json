@@ -1,0 +1,21 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Your area of interest should be the key factor in deciding your college. ???? \n                             Please specify your area of interest."
+          },
+          {
+            "text": "Remember your area of interest/branch will go with you for lifetime, college will not.                                                                                                                           \n        Let me know about your area of interest.????"
+          },
+          {
+            "text": "                                                     "
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "output": {
+    "generic": [
+      {
+        "title": "civil colleges in india",
+        "source": "https://www.thehindu.com/education/colleges/5a0jp6/article26291839.ece/ALTERNATES/FREE_960/IITDELHI",
+        "description": "",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "https://www.shiksha.com/b-tech/ranking/top-civil-engineering-colleges-in-india/53-2-0-0-0"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

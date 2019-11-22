@@ -1,0 +1,37 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "West Bengal Joint Entrance Exam is a state-government exam conducted by WBJEE Board for admission to many private and governmental engineering institutions in West Bengal. "
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "Cutoff's for WBJEE in Jadavpur University:"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "source": "https://c2.staticflickr.com/2/1783/43036564241_a9eb85c803_o.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "For other colleges please visit : https://engineering.careers360.com/articles/wbjee-cutoff"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

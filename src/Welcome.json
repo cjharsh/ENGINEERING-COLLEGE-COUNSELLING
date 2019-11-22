@@ -1,0 +1,28 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Hello. My name is PadhoLikho and I'm a chatbot for engineering college counseling."
+          },
+          {
+            "text": "Hi, this is PadhoLikho and I'm a chatbot for engineering college counseling.  How may I help you?"
+          },
+          {
+            "text": "Thanks for reaching by, How can I help! PadhoLikho!"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      },
+      {
+        "title": "",
+        "source": "https://images.theconversation.com/files/206092/original/file-20180213-58339-n9h57g.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+        "description": "",
+        "response_type": "image"
+      }
+    ]
+  },
+  "context": {}
+}

@@ -1,0 +1,50 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "??Computer Science is a major leading branch in the engineering sector. Preferred by many for various reasons like placement, job security, programming, and software as interests"
+          },
+          {
+            "text": "Computer science and engineering is an academic program at some universities that integrates the fields of computer engineering and computer science. https://en.wikipedia.org/wiki/Computer_Science_and_Engineering"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "Placement is a key factor in choosing CSE. Companies like                                                          Amazon                                                                                                                                    Microsoft                                                                                                                                               Goldaman Sachs                                                                                                                                   Directi etc. pay a good annual package to the freshers.                                            "
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "title": "Want to have a look at the best CSE college:",
+        "options": [
+          {
+            "label": "Yes",
+            "value": {
+              "input": {
+                "text": "best cse college"
+              }
+            }
+          },
+          {
+            "label": "No",
+            "value": {
+              "input": {
+                "text": "interests"
+              }
+            }
+          }
+        ],
+        "description": "",
+        "response_type": "option"
+      }
+    ]
+  }
+}

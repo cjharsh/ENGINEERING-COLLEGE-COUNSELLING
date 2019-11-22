@@ -1,0 +1,29 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "The Indian Institute of Technology Kharagpur is a public institution established by the government of India in 1951. It is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence.  https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kharagpur"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "title": "IIT kharagpu",
+        "source": "https://images.static-collegedunia.com/public/college_data/images/campusimage/15096229621489041158e1.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "http://www.iitkgp.ac.in/"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

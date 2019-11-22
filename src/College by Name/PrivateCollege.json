@@ -1,0 +1,18 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "https://www.google.com/search?q=@Private_college"
+          },
+          {
+            "text": ""
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Some of the best colleges for Biotechnology are ??:"
+          },
+          {
+            "text": "Best colleges in India for Biotechnology are??:"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "IIT Delhi - Department of Biochemical Engineering and Biotechnology                                                            IIT Kanpur - Indian Institute of Technology (IITK)                                                                                       BITS Pilani - Birla Institute of Technology and Science\nVisit this link for further details: https://www.shiksha.com/b-tech/ranking/top-bio-technology-colleges-in-india/54-2-0-0-0"
+          },
+          {
+            "text": "IIT Delhi - Department of Biochemical Engineering and Biotechnology                                                            IIT Kanpur - Indian Institute of Technology (IITK)                                                                                       BITS Pilani - Birla Institute of Technology and Science                                                                                             Visit the link for more : https://collegedunia.com/engineering/biotechnology-colleges"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

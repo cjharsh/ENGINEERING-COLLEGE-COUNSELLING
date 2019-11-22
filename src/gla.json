@@ -1,0 +1,20 @@
+{
+  "output": {
+    "generic": [
+      {
+        "title": "GLA University, Mathura",
+        "source": "https://www.gla.ac.in/",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "gla.ac.in"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

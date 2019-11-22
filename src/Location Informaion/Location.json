@@ -1,0 +1,30 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "That's a nice choice for the city. Let's look for all the colleges in this city. I got a link for you. collegedunia.com/engineering/@location+colleges"
+          },
+          {
+            "text": "Sound's cool. Let's see what this city has got for you. Here I got a link: https://www.shiksha.com/engineering/colleges/b-tech-colleges-@location"
+          },
+          {
+            "text": "I got a link that includes most of the colleges in your city of choice:  https://engineering.careers360.com/colleges/list-of-engineering-colleges-in-@location"
+          },
+          {
+            "text": "Now that's an exciting place, let's look for all the colleges in this city. Please follow the link.   https://engineering.careers360.com/colleges/list-of-engineering-colleges-in-@location"
+          },
+          {
+            "text": "I got a link that has all the colleges in the city:  https://www.shiksha.com/engineering/colleges/b-tech-colleges-@location"
+          },
+          {
+            "text": "Let's see what this city has got for you. I got this link. Please follow it to explore the colleges:  collegedunia.com/engineering/@location+colleges"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "It was great talking to you!"
+          },
+          {
+            "text": "Thanks to you, hope for a better future."
+          },
+          {
+            "text": "Have a great day!"
+          },
+          {
+            "text": "Life is beautiful, enjoy it!"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

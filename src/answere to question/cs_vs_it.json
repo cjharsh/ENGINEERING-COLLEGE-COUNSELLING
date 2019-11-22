@@ -1,0 +1,18 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Not much, it's just about the hardware. You will learn about the hardware part along with software in CSE while IT includes mostly the software part and little or no of the hardware portion. https://engineering.careers360.com/articles/engineering-branches-computer-science-vs-it"
+          },
+          {
+            "text": "It's all about the hardware. In CSE you will also learn about the hardware while it's not given much emphasis in the IT branch.        https://www.fieldengineer.com/blogs/whats-the-difference-computer-science-vs-information-technology                                                                        "
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "https://www.google.com/search?q=iit+@location"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  },
+  "context": {}
+}

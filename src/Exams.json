@@ -1,0 +1,21 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "There are various engineering entrance exams in India. JEE mains, JEE Advanced, WBJEE, UPSEE, VITJEE, SRMJEE etc. Tell me about the exam you would like to know about, its importance and cutoff list.  I can even get you the cut offs and links to rank list."
+          },
+          {
+            "text": "Various entrance exams for engineering in India are  JEE mains, JEE Advanced, WBJEE, UPSEE, VITJEE, SRMJEE, etc. Let me know which you are interested. I can get you the cut off and other details."
+          },
+          {
+            "text": "Apart from JEE mains and JEE Advanced, there are several engineering entrance exams for various other colleges, such as WBJEE, UPSEE, VITJEE, SRMJEE, etc. If you need information about any specific college. I can even get cut off and other details."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

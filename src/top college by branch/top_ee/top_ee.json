@@ -1,0 +1,25 @@
+{
+  "output": {
+    "generic": [
+      {
+        "source": "http://www.indiaeducation.net/imagesvr_ce/2009/Electrical-Engineering-1024x512.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "https://www.shiksha.com/b-tech/ranking/top-electrical-engineering-colleges-in-india/47-2-0-0-0"
+          },
+          {
+            "text": "https://engineering.careers360.com/colleges/list-of-electrical-engineering-colleges-in-india"
+          },
+          {
+            "text": "https://engineering.careers360.com/colleges/list-of-electrical-and-electronics-engineering-colleges-in-india"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

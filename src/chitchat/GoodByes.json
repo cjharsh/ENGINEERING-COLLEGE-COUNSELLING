@@ -1,0 +1,24 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Bye Bye"
+          },
+          {
+            "text": "Have a great Day!"
+          },
+          {
+            "text": "Thanks, Nice talking to you!"
+          },
+          {
+            "text": "I enjoyed it!"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

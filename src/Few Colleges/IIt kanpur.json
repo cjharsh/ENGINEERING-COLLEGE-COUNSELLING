@@ -1,0 +1,29 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "IIT Kanpur, was established in the year 1959. It offers various undergraduate, postgraduate, integrated and research programs in the field of Engineering, Science, Management, and Design. \nIIT Kanpur Admissions to B.Tech, B.S, and dual degree courses are offered through JEE Advanced, and for M.Sc programs admission is offered through JAM."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "title": "IIT kanpur",
+        "source": "https://images.static-collegedunia.com/public/college_data/images/campusimage/14351266211408972403A_building_at_IIT_Kanpur.jpg",
+        "response_type": "image"
+      },
+      {
+        "values": [
+          {
+            "text": "http://www.iitk.ac.in/"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Location should always be a factor in your decision. Please enter any city name so that I can take you to websites with list of colleges in that city."
+          },
+          {
+            "text": "Please enter a city to find all the colleges in that city. I will find a suitable link for the colleges."
+          },
+          {
+            "text": "Enter the city of your choice. "
+          },
+          {
+            "text": "Name of the location please:"
+          },
+          {
+            "text": "What's your city of choice?"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

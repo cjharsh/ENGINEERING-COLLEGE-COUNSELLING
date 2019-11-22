@@ -1,0 +1,40 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Conducted for those who score above jee mains cutoff.                                                                                    Here all your concepts are challenged at an advanced level. Here's a direct link to jee advanced official website: https://jeeadv.ac.in/ "
+          },
+          {
+            "text": "It's the next step after qualifying the initial jee mains. It is tougher and needs more skills and an in-depth understanding of the concepts to tackle the problems.                                                                                 Click on this link to visit the official website: https://jeeadv.ac.in/"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "title": "Want to know Jee advance cut off of previous years",
+        "options": [
+          {
+            "label": "Jee mains cut off",
+            "value": {
+              "input": {
+                "text": "jeemainscutoff"
+              }
+            }
+          },
+          {
+            "label": "Jee advanced cut off",
+            "value": {
+              "input": {
+                "text": "jeeadvancedcutoff"
+              }
+            }
+          }
+        ],
+        "response_type": "option"
+      }
+    ]
+  }
+}

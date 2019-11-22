@@ -1,0 +1,38 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Chemical engineering is a branch of engineering that uses principles of chemistry, physics, mathematics, biology, and economics to efficiently use, produce, design, transport and transform energy and materials.   https://en.wikipedia.org/wiki/Chemical_engineering"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "title": "I can tell you about the best chemical engineering colleges in India",
+        "options": [
+          {
+            "label": "Yes",
+            "value": {
+              "input": {
+                "text": "top chemical colleges"
+              }
+            }
+          },
+          {
+            "label": "No",
+            "value": {
+              "input": {
+                "text": "interests"
+              }
+            }
+          }
+        ],
+        "description": "Say yes to know:",
+        "response_type": "option"
+      }
+    ]
+  }
+}

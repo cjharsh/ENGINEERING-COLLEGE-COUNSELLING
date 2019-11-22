@@ -1,0 +1,50 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Aeronautical engineering is the specialized branch of engineering for the aviation industry. It involves studying, designing, construction and science of the airplanes and other spacecraft. This branch uses the science of propulsion and aerodynamics."
+          },
+          {
+            "text": "The aeronautical engineers apply scientific and technological principles to research, design, develop, maintain and test the performance of the civil and military aircraft, missiles and weapon systems. The engineers not only work for the aviation industry but also in the Defence sector, i.e. Air Force sector.                               source: engineering .careers360.com"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "values": [
+          {
+            "text": "Major organisations that recruit aerospace engineers are\n\n1 Government organisations\n\nDRDO, HAL, ISRO , Bharat dynamic limited and many more , and average package is 7 -8 Lacs per annum excluding extra benefits.\n\n2 Private organisations\n\nAirbus, Boeing, GE, GM, Pratt and Whitney, rolls Royce and even automobile companies hire few aerospace engineers And package will vary from 6–10 "
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      },
+      {
+        "title": "Interested in knowing best aeronautical branch",
+        "options": [
+          {
+            "label": "Yes",
+            "value": {
+              "input": {
+                "text": "best aeronautical"
+              }
+            }
+          },
+          {
+            "label": "No",
+            "value": {
+              "input": {
+                "text": "interests"
+              }
+            }
+          }
+        ],
+        "description": "I can get it for you.",
+        "response_type": "option"
+      }
+    ]
+  }
+}
