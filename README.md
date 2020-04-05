@@ -1,5 +1,11 @@
-# Mini-Project College Counselling Chatbot
-This repository contains the mini project for the V sem. 
+# Mini-Project Engineering College Counselling 
+This repository contains the mini project for the V+VI sem. 
+A enginnering college counselling website where a college moving student can find help on deciding over engineering college and branches.
+Head to SEM VI Mini Project and click on the webpage with html extension. The technology used are HTML CSS and JS till date.
+
+
+
+The Chatbot
 The team includes Harsh Kr. Singh, Ashwani Singhal, Kaustubh Srivastava
 and Punit Ramani. The project is metored by Mr. Vivek Kumar.
 The project is about developing a chat bot which will act as a admission/college counsellor for the school passed out students.
